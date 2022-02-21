@@ -1,6 +1,6 @@
 # felipedna.com
 
-O portfólio online de Felipe Amador!
+Meu portfólio online!
 
 ## Por quê consultar este site?
 
