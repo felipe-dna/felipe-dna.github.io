@@ -12,6 +12,9 @@ Aqui estão resumidas as informações principais acerca do desenvolvedor, como 
 $ git clone git@github.com:felipe-dna/felipe-dna.github.io.git
 ```
 
+Pronto :)
+Basta abrir o arquivo no seu navegador e aproveitar!
+
 ---
 
 ## Mantenedor
